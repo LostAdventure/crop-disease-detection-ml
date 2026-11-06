@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+artifacts/*.keras
+artifacts/*.png
+artifacts/*.json
+tensorflow_datasets/
